@@ -31,6 +31,16 @@ The analysis runs in three connected stages:
 - The recommended retention and network strategy projects preserving about
   **$3.1M in revenue over three years**.
 
+ ## Interactive Dashboard (Tableau Public)
+
+An interactive dashboard summarizing churn rate, churn by customer tenure, and churn by credit-rating segment.
+
+**Live dashboard:** https://public.tableau.com/app/profile/matin.meraj/viz/CustomerChurnRetentionDashboard_17900448360610/Dashboard1
+
+![Churn Dashboard](dashboard.png)
+
+Built in Tableau Public from the cleaned Cell2Cell dataset (50,891 customers). Key findings: overall churn rate of 28.8%, churn rising with tenure, and higher churn concentrated in lower credit-rating segments.
+
 ## What I owned
 
 I contributed the problem-framing and analytical sections: shaping the CLV-anchored
